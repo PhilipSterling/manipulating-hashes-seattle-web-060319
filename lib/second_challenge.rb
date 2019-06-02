@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.values 
-  
-
+array_array = groceries.values 
+  concatenated = array_arrays.flatten
+return concatenated
 end
